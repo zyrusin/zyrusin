@@ -1,11 +1,17 @@
-<h1 align="center">Hi 👋, I'm Rafael Reyes</h1>
-<h3 align="center">A new data scientist open to science!!</h3>
+<h1 align="center">Hi 👋, Rafael Reyes from here, who's there? </h1>
+<h3 align="center">A data scientist open to science!!</h3>
 
-- 🌱 I’m currently learning **git and ML mostly**
+- ✌️ Currently mastering **git and ML mostly**
 
-- 👯 I’m looking to collaborate **with people insterested in data science**
+- 😎 Looking to collaborate **with people insterested in data science**
 
-- 📫 How to reach me **rafa.opentoscience@outlook.com**
+- 📧 Send me a message **rafa.opentoscience@outlook.com**
+
+- Here you can find a litle bit of my job and personal projects, if you want an extra pair of hands for free, please be free to send me a message and talk about it, down here are the tools I know to use at the moment, every new project is something new to learn.
+
+- And if you want to relax, I'm a big fan of go to the gym and play videogames, feel free to ask.
+
+- ☝️ Tip to reach me, everything is mostly on English but if you like I can speck Spanish my native language.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
