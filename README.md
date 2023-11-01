@@ -7,9 +7,9 @@
 <h1 align="center">Hi 👋, Rafael Reyes from here, who's there? </h1>
 <h3 align="center">A data scientist open to science!!</h3>
 
-- ✌️ Currently mastering **git and ML mostly**
+- 🔥 Currently mastering **git and ML mostly**
 
-- 😎 Looking to collaborate **with people insterested in data science**
+- 🚀 Looking to collaborate **with people insterested in data science**
 
 - 📧 Send me a message **rafa.opentoscience@outlook.com**
 
@@ -18,6 +18,11 @@
 - And if you want to relax, I'm a big fan of go to the gym and play videogames, feel free to ask.
 
 - ☝️ Tip to reach me, everything is mostly on English but if you like I can speck Spanish my native language.
+
+---
+> "Many things are improbable, only a few are impossible."
+
+— Elon Musk
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
