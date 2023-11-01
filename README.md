@@ -1,3 +1,9 @@
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://www.un.org/sites/un2.un.org/files/styles/large-article-image-style-16-9/public/field/image/1594842639.8507.jpg">
+ <source media="(prefers-color-scheme: light)" srcset="[YOUR-LIGHTMODE-IMAGE](https://www.un.org/sites/un2.un.org/files/styles/large-article-image-style-16-9/public/field/image/1594842639.8507.jpg)">
+ <img alt="YOUR-ALT-TEXT" src="[YOUR-DEFAULT-IMAGE](https://www.un.org/sites/un2.un.org/files/styles/large-article-image-style-16-9/public/field/image/1594842639.8507.jpg)">
+</picture>
+
 <h1 align="center">Hi 👋, Rafael Reyes from here, who's there? </h1>
 <h3 align="center">A data scientist open to science!!</h3>
 
