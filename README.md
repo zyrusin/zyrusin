@@ -1,9 +1,3 @@
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://www.niaid.nih.gov/sites/default/files/styles/image_style_banner_md_2x/public/DataScienceHero-iStock-1386436522_0.jpg?itok=EOQKtntj">
- <source media="(prefers-color-scheme: light)" srcset="https://www.niaid.nih.gov/sites/default/files/styles/image_style_banner_md_2x/public/DataScienceHero-iStock-1386436522_0.jpg?itok=EOQKtntj">
- <img alt="YOUR-ALT-TEXT" src="[[YOUR-DEFAULT-IMAGE](https://www.un.org/sites/un2.un.org/files/styles/large-article-image-style-16-9/public/field/image/1594842639.8507.jpg)](https://www.niaid.nih.gov/sites/default/files/styles/image_style_banner_md_2x/public/DataScienceHero-iStock-1386436522_0.jpg?itok=EOQKtntj)">
-</picture>
-
 <h1 align="center">Hi 👋, Rafael Reyes from here, who's there? </h1>
 <h3 align="center">A data scientist open to science!!</h3>
 
